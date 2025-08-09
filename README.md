@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jsun2020
-- 👀 I’m interested in python/swift programming language
-- 🌱 I’m currently learning python/swift
+- 👀 I’m interested in python/html programming language
+- 🌱 I’m currently learning python/html
 - 💞️ I’m totally new for programming
 - 📫 Any learning programming recommanded for programming are great appdrecite
 
